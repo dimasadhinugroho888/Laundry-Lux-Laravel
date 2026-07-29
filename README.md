@@ -26,7 +26,6 @@ Aplikasi web manajemen laundry berbasis Laravel 12 yang dirancang untuk membantu
 | Database | MySQL |
 | Auth | Laravel Breeze 2.x |
 | PDF | barryvdh/laravel-dompdf ^3.1 |
-| Mobile | NativePHP Mobile ^3.0 (Android) |
 | Testing | PestPHP ^3.8 |
 | Frontend Build | Vite |
 
