@@ -1,6 +1,6 @@
 # LaundryLux - Sistem Informasi Manajemen Laundry
 
-Aplikasi web manajemen laundry berbasis Laravel 12 yang dirancang untuk membantu operator laundry dalam mengelola pelanggan, paket layanan, transaksi, dan laporan keuangan secara terpusat. Aplikasi ini juga dapat dikemas sebagai aplikasi Android menggunakan NativePHP Mobile.
+Aplikasi web manajemen laundry berbasis Laravel 12 yang dirancang untuk membantu operator laundry dalam mengelola pelanggan, paket layanan, transaksi, dan laporan keuangan secara terpusat.
 
 ---
 
